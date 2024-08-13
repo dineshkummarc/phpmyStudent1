@@ -307,14 +307,14 @@ CREATE TABLE `setting` (
 --  
 
 INSERT INTO `setting` (`id`, `option_name`, `option_value`) VALUES  
-(1, 'site_name', 'Open Source Student Management System'),  
-(2, 'sort_name', 'EMS'), 
-(3, 'address', 'Dhaka, Bangladesh'), 
+(1, 'site_name', 'ROCKIT Student Management System'),  
+(2, 'sort_name', 'REMS'), 
+(3, 'address', 'Delhi, India'), 
 (4, 'main_logo', 'techserm_full_logo.jpg'),  
 (5, 'logo', 'techserm_small_logo.png'),  
 (6, 'phone', '-'),  
-(7, 'email', 'sk.amirhamza@gmail.com'),  
-(8, 'msg', 'EMS');  
+(7, 'email', 'rockitsoftwareservice@gmail.com'),  
+(8, 'msg', 'REMS');
 
 -- --------------------------------------------------------
 
@@ -557,7 +557,7 @@ CREATE TABLE `user` (
 --
 
 INSERT INTO `user` (`id`, `uname`, `fname`, `photo`, `gender`, `email`, `phone`, `address`, `pass`, `permit`, `status`, `theme`) VALUES
-(1, 'admin', 'Admin', 'avatar.png', 'Male', 'admin@gmail.com', 012345678910, 'Bangladesh', '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918', 1, 1, 1);
+(1, 'admin', 'Admin', 'avatar.png', 'Male', 'admin@gmail.com', 09999999999, 'India', '8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918', 1, 1, 1);
 --
 -- Indexes for dumped tables
 --
