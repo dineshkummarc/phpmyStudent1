@@ -13,8 +13,7 @@
   <!-- <footer style="background-color: #414959; padding: 20px;"> -->
                
 <div class="footer-style custom_footer">
-                <!-- Purchase a site license to remove this link from the footer: http://www.portnine.com/bootstrap-themes -->
-                <center>Design & Developed By: <a class="a_footer" href="https://github.com/amirhamza05/Student-Management-System">Amir Hamza</a></center>
+                <center>Powered By: <a class="a_footer" href="#">ROCKIT</a></center>
            
 </div>
             <!-- </footer> -->
