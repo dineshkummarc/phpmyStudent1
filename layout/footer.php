@@ -13,7 +13,8 @@
   <!-- <footer style="background-color: #414959; padding: 20px;"> -->
                
 <div class="footer-style custom_footer">
-                <center>Powered By: <a class="a_footer" href="#">ROCKIT</a></center>
+                <!-- Purchase a site license to remove this link from the footer: http://www.portnine.com/bootstrap-themes -->
+                <center>Powered By: <a class="a_footer">RockIT</a></center>
            
 </div>
             <!-- </footer> -->
